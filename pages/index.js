@@ -31,6 +31,15 @@ export default function Home() {
         <h2>Data Security</h2>
         <p>Our commitment to not collecting data means there is no risk of your personal data being compromised or accessed, as it is never stored or transmitted by our app.</p>
     </section>
+    <section className="policy-section">
+        <h2>Oprávnění</h2>
+        <p>- Tato aplikace využívá služeb AccessibilityService API pro zpbrazení tlačítka nad aplikací Můj Vlak.</p>
+        <p>- Tato aplikace nesbírá ani nezpracovává žádná osobní data.</p>
+        <p>- Tato aplikace nemění žádná osobní nastavení ani neznemožňuje zablokování či odinstalaci žádných aplikací a služeb.</p>
+        <p>- Tato aplikace nijak neobchází nastavení či notifikace soukromí systému Android.</p>
+        <p>- Tato aplikace nemění ani nevyužívá uživatelské rozhraní způsobem, který je klamavý nebo jinak porušuje zásady pro vývojáře na Google Play.</p>
+        <p>- Tato aplikace nijak (ani vzdáleně) nevyužívá a nenahrává zvuk.</p>
+    </section>
 </main>
 
 
